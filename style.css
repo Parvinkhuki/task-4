@@ -6,6 +6,7 @@
 .header{
     background-image: url("/images/banner/banner3.png");
     background-repeat: no-repeat;
+    background-size: cover;
   
     
 }
@@ -44,4 +45,21 @@ font-weight: 600;
     align-items: center;
     gap: 100px;
     padding: 150px 300px 50px 200px;
+}
+.info-head{
+    color: #151414;
+font-size: 40px;
+font-weight: 700;
+margin-bottom: 20px;
+}
+.info-para{
+    color: #444343;
+font-size: 16px;
+font-weight: 400;
+margin-bottom: 16px;
+
+}
+.lii{
+    list-style: none;
+    margin-bottom: 8px;
 }
