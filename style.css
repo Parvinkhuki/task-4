@@ -62,4 +62,58 @@ margin-bottom: 16px;
 .lii{
     list-style: none;
     margin-bottom: 8px;
+    
+}
+.plan-tittle{
+    color:  #151414;
+text-align: center;
+font-size: 40px;
+font-weight: 700;
+
+}
+.img-d{
+    display: flex;
+    justify-content:space-around;
+    padding: 70px 250px 30px 250px;
+    gap: 50px;
+    align-items: center;
+    
+ 
+}
+.img-t{
+    color:  #151414;
+text-align: center;
+font-size: 30px;
+font-weight: 700;
+margin-bottom: 8px;
+
+}
+.img-p{
+    color: #737272;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+   
+}
+.im{
+    margin-bottom: 15px;
+    display: block;
+    margin:auto
+}
+.section2{
+    background-image: url("/images/gradient1.png")
+    ,url("/images/watch.png");
+    background-repeat:no-repeat;
+    background-size: 100%;
+    margin: 100px 230px 100px 230px;
+    padding: 55px 550px 64px 59px;
+    border-radius: 8px;
+}
+.always-tit{
+    color: #FFF;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+margin-bottom: 20px;
+
 }
