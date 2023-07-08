@@ -6,9 +6,10 @@
 .header{
     background-image: url("./images/banner/banner3.png");
     background-repeat: no-repeat;
-    background-size: cover;
-    height:808px;
-    width:1600px;
+    background-size:cover;
+    height: 100vh;
+
+    
     
 }
 .banner1{
@@ -106,8 +107,8 @@ margin-bottom: 8px;
     ,url("./images/watch.png");
     background-repeat:no-repeat;
     background-size: 100%;
-    margin: 100px 230px 100px 230px;
-    padding: 55px 550px 64px 59px;
+    margin: 60px 230px 100px 230px;
+    padding: 100px 600px 70px 59px;
     border-radius: 8px;
 }
 .always-tit{
