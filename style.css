@@ -118,3 +118,58 @@ font-weight: 700;
 margin-bottom: 20px;
 
 }
+.footer-container{
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    background: #151414;;
+    padding: 130px 230px 229px 130px;
+}
+.footer-title{
+    color: #F8F8F8;
+   
+    font-size: 45px;
+    font-weight: 700;
+
+
+}
+.contact{
+    color: #FFF;
+font-size: 16px;
+font-weight: 400;
+margin-top: 20px;
+
+}
+.for input, submit, h4 {
+    display: block;
+ margin-bottom: 24px;
+
+}
+.ppp{
+    color: #FFF;
+font-size: 25px;
+font-weight: 600;
+}
+.ii{
+    background-color: #151414;
+    color:#F3F3F3;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 21px 211px 21px 21px;
+    box-shadow: 2px solid #FFF;
+}
+.bttnn{
+    border-radius: 8px;
+    background: #005FAC;
+    color: #FFF;
+
+font-size: 20px;
+
+font-weight: 600;
+padding:20px 35px 20px 35px ;
+
+}
+.icon{
+    margin-top: 24px;
+    gap: 20px;
+}
