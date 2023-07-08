@@ -5,7 +5,6 @@
 }
 .header{
     background-image: url("./images/banner/banner3.png");
-    
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -101,8 +100,8 @@ margin-bottom: 8px;
     margin:auto
 }
 .section2{
-    background-image: url("/images/gradient1.png")
-    ,url("/images/watch.png");
+    background-image: url("./images/gradient1.png")
+    ,url("./images/watch.png");
     background-repeat:no-repeat;
     background-size: 100%;
     margin: 100px 230px 100px 230px;
